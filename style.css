@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 1000px;
+  width: 500px;
+}
+.container {
+  margin-top: 20px;
+  margin-left: 200px;
+  height: 602px;
+  width: 418px;
+  border: 2px solid blue;
+  background-color: cyan;
+}
+#input {
+  height: 100px;
+  width: 100%;
+  background-color: aqua;
+  text-align: center;
+  padding-top: 40px;
+  border: 2px solid blue;
+}
+#dot {
+  font-size: 1rem;
+}
+#equal {
+  width: 205px;
+}
+button {
+  height: 100px;
+  width: 100px;
+  border-radius: 0;
+  font-size: 1rem;
+}
